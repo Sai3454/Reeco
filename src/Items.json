@@ -1,0 +1,64 @@
+{
+    "order": {
+        "id": "32AG54F",
+        "name": "Green Foot",
+        "shipping": "24 Aug 2024",
+        "category": "fruits",
+        "total": "160000",
+        "department": "3AF- 2000",
+        "status": "Awaiting your approval"
+    },
+    "products": [
+
+        {
+            "id": 1,
+            "name": "Pea Nut",
+            "imageUrl": "http://localhost:3000/product.jpg",
+            "brand": "Home Black",
+            "price": "800",
+            "quantity": "50",
+            "total": "40000",
+            "status": null
+        },
+        {
+            "id": 2,
+            "name": "Pea Nut",
+            "imageUrl": "http://localhost:3000/product.jpg",
+            "brand": "Home Black",
+            "price": "800",
+            "quantity": "50",
+            "total": "40000",
+            "status": ""
+        },
+        {
+            "id": 3,
+            "name": "Pea Nut",
+            "imageUrl": "http://localhost:3000/product.jpg",
+            "brand": "Home Black",
+            "price": "800",
+            "quantity": "50",
+            "total": "40000",
+            "status": ""
+        },
+        {
+            "id": 4,
+            "name": "Pea Nut",
+            "imageUrl": "http://localhost:3000/product.jpg",
+            "brand": "Home Black",
+            "price": "800",
+            "quantity": "50",
+            "total": "40000",
+            "status": ""
+        },
+        {
+            "id": 5,
+            "name": "Pea Nut",
+            "imageUrl": "http://localhost:3000/product.jpg",
+            "brand": "Home Black",
+            "price": "800",
+            "quantity": "50",
+            "total": "40000",
+            "status": ""
+        }
+    ]
+}
